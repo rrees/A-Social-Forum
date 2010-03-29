@@ -83,5 +83,7 @@ log4j = {
     warn   'org.mortbay.log'
 }
 
+grails.neo4j.storeDir = 'data'
+
 
      
