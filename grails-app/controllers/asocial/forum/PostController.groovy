@@ -2,5 +2,5 @@ package asocial.forum
 
 class PostController {
 
-    def init = {}
+    def scaffold = Post
 }

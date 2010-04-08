@@ -6,7 +6,7 @@ import grails.plugins.neo4j.*
 class Post {
 
 	String content
-
+	
     static constraints = {
     }
 }
